@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/querydsl?useUnicode=true&character_set_server=utf8mb4&useSSL=false&timezone=Asia/Shanghai
+    username: root
+  jpa:
+    open-in-view: false
